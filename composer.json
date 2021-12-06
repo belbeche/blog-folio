@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fzaninotto/faker": "^1.8",
+        "sonata-project/admin-bundle": "^3.104"
+    }
+}

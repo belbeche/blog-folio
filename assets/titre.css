@@ -1,0 +1,68 @@
+body{
+    padding: 15px;
+    font-family: "aktiv-grotesk";
+  }
+  
+  .title {
+    padding-left: 100px;
+    margin-top: 0px;
+    color: #FFFFFF;
+    font-feature-settings: "ss07";
+    font-size: 35px;
+  }
+  
+  .subtitle{
+    padding-left: 130px;
+    font-size: 20px;
+    color: #FFFFFF;
+    font-weight: 100;
+    margin-top: -30px;
+  }
+  
+  .button{
+    width: 100px;
+    top: 100px;
+    position: absolute;
+    background-color: #83c055;
+  }
+  
+  .circle {
+    background-color: #83c055;
+    display: inline-block;
+    width: 9px;
+    height: 9px;
+    border-radius: 4px;
+    position: absolute;
+  }
+  
+  .circle-1 {
+    left: 10;
+    top: 40px;
+    border-radius: 400px;
+    height: 37px;
+    width: 37px;
+  }
+  
+  .circle-2 {
+    left: 52px;
+    border-radius: 400px;
+    width: 21px;
+    height: 21px;
+  }
+  
+  .circle-3 {
+    left: 70px;
+    top: 15px;
+    border-radius: 400px;
+    width: 13px;
+    height: 13px;
+  }
+  
+  .circle-4 {
+    left: 83px;
+    top: 20px;
+    border-radius: 400px;
+    width: 9px;
+    height: 9px;
+  }
+  
